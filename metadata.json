@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge AI",
+  "description": "Enterprise, individual, and student skill intelligence platform powered by multi-agent Gemini gap analysis, 4-week roadmaps, and adaptive assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
